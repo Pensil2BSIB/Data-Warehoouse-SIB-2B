@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1793c3e1-3a25-45fe-b889-aeae2e9e9d55)Step by Step apa yang harus dilakukan ketika maelakukan perubahan
+Step by Step apa yang harus dilakukan ketika maelakukan perubahan
 
 1. Git Clone repo ini di folder yang akan kalian simpan
    
