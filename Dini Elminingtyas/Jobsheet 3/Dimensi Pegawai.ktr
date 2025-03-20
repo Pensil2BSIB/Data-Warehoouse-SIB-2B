@@ -792,19 +792,15 @@
       </field>
       <field>
         <name>extension</name>
-        <rename/>
       </field>
       <field>
         <name>email</name>
-        <rename/>
       </field>
       <field>
         <name>officeCode</name>
-        <rename/>
       </field>
       <field>
         <name>reportsTo</name>
-        <rename/>
       </field>
       <field>
         <name>jobTitle</name>
@@ -812,7 +808,6 @@
       </field>
       <field>
         <name>employeeNumber_1</name>
-        <rename/>
       </field>
       <field>
         <name>lastName_1</name>
@@ -824,23 +819,18 @@
       </field>
       <field>
         <name>extension_1</name>
-        <rename/>
       </field>
       <field>
         <name>email_1</name>
-        <rename/>
       </field>
       <field>
         <name>officeCode_1</name>
-        <rename/>
       </field>
       <field>
         <name>reportsTo_1</name>
-        <rename/>
       </field>
       <field>
         <name>jobTitle_1</name>
-        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
       <remove>
