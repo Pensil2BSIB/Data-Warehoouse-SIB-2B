@@ -501,11 +501,6 @@
   </connection>
   <order>
     <hop>
-      <from>CSV file input</from>
-      <to>dim_karyawan</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>Add sequence</from>
       <to>Filter rows</to>
       <enabled>Y</enabled>
@@ -518,6 +513,11 @@
     <hop>
       <from>dim_karyawan</from>
       <to>Add sequence</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>CSV file input</from>
+      <to>dim_karyawan</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -567,7 +567,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>D:/UAS DW/Employee Sample Data 1.csv</filename>
+    <filename>D:\UAS DW\Employee Sample Data 1.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -746,7 +746,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>208</xloc>
+      <xloc>224</xloc>
       <yloc>48</yloc>
       <draw>Y</draw>
     </GUI>
